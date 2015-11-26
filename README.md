@@ -1,5 +1,7 @@
-# thingspeak.server
+# thingspeak.server for ARM architecture
 ThingSpeak server (platform for IoT devices)
+
+The original Dockerfile and docker-compose.yml have been update to run with ARM base images.
 
 Expose :
 
