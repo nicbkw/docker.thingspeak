@@ -1,5 +1,5 @@
 mysql:
-  image: mysql:5.5
+  image: hypriot/rpi-mysql
   environment:
     MYSQL_ROOT_PASSWORD: rootpwd
   ports:
